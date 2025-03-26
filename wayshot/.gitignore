@@ -1,0 +1,11 @@
+target
+*.gz
+*.out
+.direnv
+*.jpg
+*.jpeg
+*.png
+*.ppm
+*.qoi
+/target
+

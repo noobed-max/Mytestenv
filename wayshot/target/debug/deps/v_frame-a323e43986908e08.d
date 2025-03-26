@@ -1,0 +1,11 @@
+/home/deadsec/Desktop/GSOC/understanding_dir/Mytestenv/wayshot/target/debug/deps/libv_frame-a323e43986908e08.rmeta: /home/deadsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/v_frame-0.3.8/src/lib.rs /home/deadsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/v_frame-0.3.8/src/frame.rs /home/deadsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/v_frame-0.3.8/src/math.rs /home/deadsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/v_frame-0.3.8/src/pixel.rs /home/deadsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/v_frame-0.3.8/src/plane.rs
+
+/home/deadsec/Desktop/GSOC/understanding_dir/Mytestenv/wayshot/target/debug/deps/libv_frame-a323e43986908e08.rlib: /home/deadsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/v_frame-0.3.8/src/lib.rs /home/deadsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/v_frame-0.3.8/src/frame.rs /home/deadsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/v_frame-0.3.8/src/math.rs /home/deadsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/v_frame-0.3.8/src/pixel.rs /home/deadsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/v_frame-0.3.8/src/plane.rs
+
+/home/deadsec/Desktop/GSOC/understanding_dir/Mytestenv/wayshot/target/debug/deps/v_frame-a323e43986908e08.d: /home/deadsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/v_frame-0.3.8/src/lib.rs /home/deadsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/v_frame-0.3.8/src/frame.rs /home/deadsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/v_frame-0.3.8/src/math.rs /home/deadsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/v_frame-0.3.8/src/pixel.rs /home/deadsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/v_frame-0.3.8/src/plane.rs
+
+/home/deadsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/v_frame-0.3.8/src/lib.rs:
+/home/deadsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/v_frame-0.3.8/src/frame.rs:
+/home/deadsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/v_frame-0.3.8/src/math.rs:
+/home/deadsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/v_frame-0.3.8/src/pixel.rs:
+/home/deadsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/v_frame-0.3.8/src/plane.rs:

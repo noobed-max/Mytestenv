@@ -352,9 +352,7 @@ impl Dispatch<ExtImageCopyCaptureFrameV1, ()> for CaptureFrameState {
             ExtImageCopyCaptureFrameV1Event::Ready => {
                 println!("Frame captured successfully");
                 proxy.destroy();
-                // Here you would access the buffer data, e.g., by mapping the SHM file descriptor.
-                // You'd need to store the shm_fd and buffer_size in SessionState to do this.
-                // Then, unmap and close the shm_fd when you're done with the data.
+                // planning to map fd here for buffer data and initialize it to CaptureFrameState or other option
             }
             
             ExtImageCopyCaptureFrameV1Event::Failed { reason }=> {

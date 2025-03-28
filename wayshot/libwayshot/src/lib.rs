@@ -434,7 +434,7 @@ impl WayshotConnection {
         debug!("Unmapping and destroying layer shell surfaces.");
         for (surface, layer_shell_surface) in layer_shell_surfaces.iter() {
             surface.attach(None, 0, 0);
-            surface.commit(); //unmap surface by committing a null buffer
+            surface.commit(); 
             layer_shell_surface.destroy();
         }
         event_queue.roundtrip(&mut state)?;
@@ -474,7 +474,6 @@ impl WayshotConnection {
         let mut event_queue = self.conn.new_event_queue::<CaptureFrameState>();
         let qh = event_queue.handle();
 
-        // Instantiating screencopy manager.
         let output_capture_source_manager = match self.globals.bind::<ExtOutputImageCaptureSourceManagerV1, _, _>(
             &qh,
             1..=ExtOutputImageCaptureSourceManagerV1::interface().version,
